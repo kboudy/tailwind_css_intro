@@ -46,4 +46,4 @@ npx tailwindcss build ./src/input.css -o ./dist/output.css --watch
 
 ### sidebar
 
-![sidebar](./page_snapshots/sidebar.png "Sidebar")
+![sidebar](./page_snapshots/sidebar2.png "Sidebar")
