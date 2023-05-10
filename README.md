@@ -35,7 +35,7 @@ npx tailwindcss build ./src/input.css -o ./dist/output.css --watch
 
 - tailwind css intellisense plugin for vscode is essential
 - `/25` indicates an opacity of 25
-- `sm:flex` creates a media query that will only show on smaller screens
+- `sm:foo` creates a media query that will only show on smaller screens
 - `w-[300px]` bracket notation allows you to specify exact pixels
 
 ## page snapshots:
