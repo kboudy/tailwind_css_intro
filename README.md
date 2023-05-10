@@ -30,3 +30,20 @@ npx tailwindcss build ./src/input.css -o ./dist/output.css --watch
 
 # installed the [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extension in VS Code
 ```
+
+## learning notes
+
+- tailwind css intellisense plugin for vscode is essential
+- `/25` indicates an opacity of 25
+- `sm:flex` creates a media query that will only show on smaller screens
+- `w-[300px]` bracket notation allows you to specify exact pixels
+
+## page snapshots:
+
+### index
+
+![index](./page_snapshots/index.png "Index")
+
+### sidebar
+
+![sidebar](./page_snapshots/sidebar.png "Sidebar")
